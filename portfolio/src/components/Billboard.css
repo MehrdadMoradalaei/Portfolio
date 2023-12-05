@@ -1,0 +1,14 @@
+.leftSide{
+    width: 35%;
+    height: 700px;
+    background-color: rgb(64, 64, 220);
+    float: left;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size:xx-large;
+}
+.rightSide{
+    width: 65%;
+    height: 700px;
+    background-color: rgb(239, 194, 194);
+    float: right;
+}
