@@ -1,13 +1,16 @@
 import "./Billboard.css";
+import cvPic from "../assets/cvPic.jpg"
 
 function Billboard(){
     return(
        <div className="container">
             <div className="leftSide">
-                 <h3>Mehrdad Moradalaei</h3>
+                 <div className="title">Mehrdad Moradalaei</div>
+                 <div>
+                    <img src={cvPic} className="img" alt=""></img>
+                 </div>
             </div>
             <div className="rightSide">
-
             </div>
 
        </div>
