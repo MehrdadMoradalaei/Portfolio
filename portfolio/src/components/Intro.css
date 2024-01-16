@@ -1,0 +1,28 @@
+.introContainer{
+    display: inline-block;
+    font-family: serif;
+
+}
+.descript{
+    width: 50%;
+    height: 900px;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    position: absolute;
+    font-family: system-ui;
+}
+.pic{
+    width: 50%;
+    height: auto;
+    margin-top: 14%;
+    object-fit: cover;
+    float: right;
+}
+.titleDesciption{
+    padding-top: 180px;
+    padding-left: 30px;
+    font-size: 3.25rem;
+    font-weight: bold;
+    
+}

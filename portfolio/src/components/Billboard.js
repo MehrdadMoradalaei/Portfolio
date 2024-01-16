@@ -14,11 +14,9 @@ function Billboard() {
       </div>
       <div className="rightSide">
         <div className="description">
-          <h2>Junior Software Developer</h2>
-          <h1>Mehrdad Moradalaei</h1>
-          <p>
-            I am a person who follows his dreams and his interests. Sometimes your second favorite career is so attractive that it makes you change your whole world. In my case, "Programing" has changed my world
-          </p>
+          <h1>Junior Software-Entwickler</h1>
+          <div className='nameDesciption'>Mehrdad Moradalaei</div>
+          <h3 style={{ color: "gray" }}>Ich folge meinen Träumen und Interessen.</h3>
           <div className="buttonContainer">
             <a className='link' href={pdfFile} download="CV-Mehrdad Moradalaei" target="_blank" rel="noopener noreferrer">
               <div className="cvButton">Download CV</div>
