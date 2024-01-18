@@ -1,0 +1,45 @@
+.eduImg{
+    width: auto;
+    height: 600px;
+    float:right;
+}
+.eduDetail{
+    width: 850px;
+    height: 600px;
+    float: left;
+}
+.eduDetail{
+    margin-left: 50px;
+}
+.eduDetail p{
+font-weight: bold;
+margin-left: 20px;
+font-size: 3.25rem;
+color: #1F3F7A;
+
+}
+.courses{
+    margin: 20px ;
+}
+.course{
+    width: 700px;
+    height: 130px;
+    background-color: #9FA5D7;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px #1F3F7A;
+}
+.eduLogo{
+    float: left;
+    width: 70px;
+    height: 100%;
+    border-radius: 20px;
+    background-color: black;
+}
+.courseDetail{
+    float: left;
+    margin-left: 10px;
+}
+.courseInfo{
+    margin: -8px 10px;
+}
