@@ -4,6 +4,7 @@ import Billboard from './components/Billboard';
 import Intro from './components/Intro';
 import Skill from './components/Skills';
 import Education from './components/Education';
+import Experience from './components/Experience';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Intro/> 
       <Skill/>
       <Education/>
+      <Experience/>
     </div>
   
   );

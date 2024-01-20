@@ -1,27 +1,31 @@
-.eduImg{
-    width: auto;
+.expImg{
+    width: 40%;
     height: 660px;
     margin-top: 140px;
-    float:right;
+    float:left;
+    object-fit: cover;
 }
-.eduDetail{
-    width: 850px;
+.expImg img{
+    width: 80%;
+    margin-left: 70px;
+}
+.expDetail{
+    width: 60%;
     height: 800px;
-    float: left;
-    margin-left: 50px;
+    float: right;
 }
 
-.eduDetail p{
+.expDetail p{
 font-weight: bold;
-margin-left: 20px;
 font-size: 3.25rem;
 color: #1F3F7A;
+margin-left: 600px;
 
 }
-.courses{
-    margin: 20px ;
+.experiences{
+    margin: 20px 0 20px 170px ;
 }
-.course{
+.experience{
     width: 700px;
     height: 130px;
     background-color: #9FA5D7;
@@ -29,17 +33,17 @@ color: #1F3F7A;
     margin-bottom: 20px;
     box-shadow: 0 0 10px #1F3F7A;
 }
-.eduLogo{
+.expLogo{
     float: left;
     width: 70px;
     height: 100%;
     border-radius: 20px;
     background-color: black;
 }
-.courseDetail{
+.experienceDetail{
     float: left;
     margin-left: 10px;
 }
-.courseInfo{
+.experienceInfo{
     margin: -8px 10px;
 }
