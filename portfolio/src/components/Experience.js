@@ -15,9 +15,9 @@ function Experience(){
                                 <img src='' alt=''></img>
                             </div>
                             <div className='experienceDetail'>
-                                <div className='experienceInfo'><h6>2015-2018</h6></div>
-                                <div className='experienceInfo'><h4>Bachelor: Wirtschaftsingieurwesen</h4></div>
-                                <div className='experienceInfo'><h5>Azad-Universität von Tehran,Iran</h5></div>  
+                                <div className='experienceInfo'><h6>2024-Heute</h6></div>
+                                <div className='experienceInfo'><h4>Web Entwickler</h4></div>
+                                <div className='experienceInfo'><h5>Elbenwald GmbH, Cottbus, Deutschland</h5></div>  
                             </div>
                     </div>
                     <div className='experience'>
@@ -25,9 +25,9 @@ function Experience(){
                                 <img src='' alt=''></img>
                             </div>
                             <div className='experienceDetail'>
-                                <div className='experienceInfo'><h6>2015-2018</h6></div>
-                                <div className='experienceInfo'><h4>Bachelor: Wirtschaftsingieurwesen</h4></div>
-                                <div className='experienceInfo'><h5>Azad-Universität von Tehran,Iran</h5></div>  
+                                <div className='experienceInfo'><h6>2016-2019</h6></div>
+                                <div className='experienceInfo'><h4>Qualitätskontrollleiter</h4></div>
+                                <div className='experienceInfo'><h5>Miras Shargh Gold Factory, Tehran,Iran</h5></div>  
                             </div>
                     </div>
                     <div className='experience'>
@@ -35,9 +35,9 @@ function Experience(){
                                 <img src='' alt=''></img>
                             </div>
                             <div className='experienceDetail'>
-                                <div className='experienceInfo'><h6>2015-2018</h6></div>
-                                <div className='experienceInfo'><h4>Bachelor: Wirtschaftsingieurwesen</h4></div>
-                                <div className='experienceInfo'><h5>Azad-Universität von Tehran,Iran</h5></div>  
+                                <div className='experienceInfo'><h6>2015-2016</h6></div>
+                                <div className='experienceInfo'><h4>Qualitätskontrollassistent</h4></div>
+                                <div className='experienceInfo'><h5>Miras Shargh Gold Factory, Tehran,Iran</h5></div>  
                             </div>
                     </div>
                 </div>

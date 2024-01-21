@@ -7,28 +7,49 @@ function Project(){
         </div>
         <div className='projectContainer'>
         <div className='project'>
-            <div>
+            <div className='projectDetail'>
                 <h2>Online Shop Website</h2>
                 <div className='projectPic'></div>
-                <div className='projectDetail'>
+                <div className='projectTech'>
+                    <ul>
+                        <li>React</li>
+                        <li>HTML 5</li>
+                        <li>CSS 3</li>
+                    </ul>
+                </div>
+                <div className='projectLink'>
                  <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">&</a>
                 </div>  
             </div>
         </div>
         <div className='project'>
-            <div>
+            <div className='projectDetail'>
                 <h2>News Website</h2>
                 <div className='projectPic'></div>
-                <div className='projectDetail'>
+                <div className='projectTech'>
+                    <ul>
+                        <li>React</li>
+                        <li>HTML 5</li>
+                        <li>CSS 3</li>
+                    </ul>
+                </div>
+                <div className='projectLink'>
                  <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">&</a>
                 </div>  
             </div>
         </div>
         <div className='project'>
-            <div>
+            <div className='projectDetail'>
                 <h2>Christmas Countdown</h2>
                 <div className='projectPic'></div>
-                <div className='projectDetail'>
+                <div className='projectTech'>
+                    <ul>
+                        <li>React</li>
+                        <li>HTML 5</li>
+                        <li>CSS 3</li>
+                    </ul>
+                </div>
+                <div className='projectLink'>
                  <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">&</a>
                 </div>  
             </div>
